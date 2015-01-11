@@ -1,0 +1,33 @@
+<methodCall>
+ <methodName>SearchSubtitles</methodName>
+ <params>
+  <param>
+   <value><string>5fdgt2e9qriblpbojnq0j46op1</string></value>
+  </param>
+  <param>
+   <value>
+    <array>
+     <data>
+      <value>
+       <struct>
+        <member>
+         <name>sublanguageid</name>
+         <value><string>cze,eng,ger,slo</string>
+         </value>
+        </member>
+        <member>
+         <name>moviehash</name>
+         <value><string>7d9cd5def91c9432</string></value>
+        </member>
+        <member>
+         <name>moviebytesize</name>
+         <value><double>735934464</double></value>
+        </member>
+       </struct>
+      </value>
+     </data>
+    </array>
+   </value>
+  </param>
+ </params>
+</methodCall>
